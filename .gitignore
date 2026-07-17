@@ -1,0 +1,12 @@
+# Gevoelige bestanden
+Geheimen.md
+
+# OS specifieke bestanden
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
